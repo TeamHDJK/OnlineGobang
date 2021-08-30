@@ -1,5 +1,5 @@
 # OnlineGobang
-联机五子棋
+联机五子棋，使用 php 做服务器，easyx 编写图形库
 
 介绍
 ---
